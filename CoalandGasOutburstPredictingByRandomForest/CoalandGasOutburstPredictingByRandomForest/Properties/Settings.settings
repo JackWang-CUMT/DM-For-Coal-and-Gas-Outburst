@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="CoalandGasOutburstPredictingByRandomForest.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="RDLLDir" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\Program Files\R\R-2.15.0\bin\i386</Value>
+    </Setting>
+    <Setting Name="Author" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">WangMing</Value>
+    </Setting>
+    <Setting Name="AppName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">基于RandomForest模型的煤与瓦斯突出预测系统</Value>
+    </Setting>
+    <Setting Name="AuthComName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">中国矿业大学管理学院</Value>
+    </Setting>
+    <Setting Name="Date" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">2012-5-18 10:08</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
